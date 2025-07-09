@@ -1,6 +1,6 @@
 # ✨ Blocky
 
-**Blocky** is a web-based puzzle game . Built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**, the game challenges players to place blocks of various shapes on a 10x10 grid. The objective is to clear full rows or columns to earn points and continue playing until no more moves are possible.
+**Blocky** is a web-based puzzle game. Built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**, the game challenges players to place blocks of various shapes on a 10x10 grid. The objective is to clear full rows or columns to earn points and continue playing until no more moves are possible.
 
 ---
 
@@ -18,10 +18,9 @@
 
 ## 📸 Screenshots
 
-![Blocky Screenshot](./assets/screenshot-main.png)
-
-
-![How to Play](./assets/screenshot-footer.png)
+### Main Gameplay
+![Blocky Screenshot](./src/assets/Screenshot%202025-07-09%20103227.png)
+![Blocky Screenshot](./src/assets/Screenshot%202025-07-09%20103359.png)
 
 ---
 
@@ -34,3 +33,10 @@
 - 🎨 **shadcn/ui** — modern UI components
 - 🧠 **Custom Hooks** — for game logic and mobile interaction
 
+---
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
