@@ -19,7 +19,7 @@
 ## 📸 Screenshots
 
 ### Main Gameplay
-![Blocky Screenshot](https://raw.githubusercontent.com/MariamJan/Blocky/main/src/assets/screenshot-main.png)
+![Blocky Screenshot](https://raw.githubusercontent.com/MariamJan/Blocky/refs/heads/main/Blocky/src/assets/Screenshot%202025-07-09%20103227.png)
 
 ![How to Play](https://raw.githubusercontent.com/MariamJan/Blocky/main/src/assets/screenshot-footer.png)
 ---
